@@ -6,4 +6,4 @@
   - Python 3.7
   - Django 
   - MongoDB  (Database) 
-  - HTML  
+  - HTML
