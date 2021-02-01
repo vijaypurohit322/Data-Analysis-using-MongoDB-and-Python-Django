@@ -7,4 +7,3 @@
   - Django 
   - MongoDB  (Database) 
   - HTML  
-  
