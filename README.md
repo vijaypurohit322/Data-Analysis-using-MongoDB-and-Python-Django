@@ -7,3 +7,6 @@
   - Django 
   - MongoDB  (Database) 
   - HTML
+
+-----
+- [Follow me](https://github.com/vijaypurohit322/) for more updates.
